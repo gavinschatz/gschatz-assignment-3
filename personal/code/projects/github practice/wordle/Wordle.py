@@ -15,4 +15,3 @@ def randomWord():
     
     return random.choice(words)
 
-print(randomWord())
